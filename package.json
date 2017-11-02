@@ -1,0 +1,14 @@
+{
+  "name": "@razbomi/drone",
+  "version": "1.0.0",
+  "description": "Empty node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Success: Your lack of tests disturbed me\""
+  },
+  "keywords": [
+    "meow"
+  ],
+  "author": "Kris Kross",
+  "license": "UNLICENSED"
+}
